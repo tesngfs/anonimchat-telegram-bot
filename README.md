@@ -6,6 +6,7 @@ ping3
 
 
 My telegram - https://t.me/exfador
+my telegram channel - https://t.me/naumov_glav
 
 The bot supports the menu admin, includes:
 - newsletter (mailing from the behalf of the administrator, is used for newcomers, etc.)
